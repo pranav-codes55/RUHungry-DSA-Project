@@ -75,5 +75,15 @@ make
 - Data Structures: Queue, Binary Search Tree
 
 ## Author
+
 Pranav
-DSA Project - Restaurant Management System
+
+DSA Group Project – Restaurant Management System (RUHungry)
+
+My Contributions:
+- Implemented Customer Management Module
+- Designed waiting queue system for customers
+- Implemented seating allocation algorithm
+- Developed customer.c and customer.h
+- Implemented seated customer tracking using linked list
+- Handled customer arrival, seating, and leaving logic
