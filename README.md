@@ -75,5 +75,5 @@ make
 - Data Structures: Queue, Binary Search Tree
 
 ## Author
-
+Pranav
 DSA Project - Restaurant Management System
